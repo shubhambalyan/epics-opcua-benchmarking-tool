@@ -1,0 +1,100 @@
+record(ao,cpu1:total)
+{
+field(DTYP, "OPCUA")
+field(ADEL, "-1")
+field(MDEL, "-1")
+field(OUT, "@OPC1 ns=2;s=CPU1.Total monitor=n")
+}
+record(ai,cpu1:total_rb)
+{
+field(DTYP, "OPCUA")
+field(ADEL, "-1")
+field(MDEL, "-1")
+field(TSE, "-2")
+field(SCAN, "I/O Intr")
+field(INP, "@SUB1 ns=2;s=CPU1.Total timestamp=source qsize=11")
+}
+
+record(ao,cpu2:total)
+{
+field(DTYP, "OPCUA")
+field(ADEL, "-1")
+field(MDEL, "-1")
+field(OUT, "@OPC1 ns=2;s=CPU2.Total monitor=n")
+}
+record(ai,cpu2:total_rb)
+{
+field(DTYP, "OPCUA")
+field(ADEL, "-1")
+field(MDEL, "-1")
+field(TSE, "-2")
+field(SCAN, "I/O Intr")
+field(INP, "@SUB1 ns=2;s=CPU2.Total timestamp=source qsize=11")
+}
+
+record(ao,process_data_read1:temperature)
+{
+field(DTYP, "OPCUA")
+field(ADEL, "-1")
+field(MDEL, "-1")
+field(OUT, "@OPC1 ns=2;s=Process_Data_read1.Temperature monitor=n")
+}
+record(ai,process_data_read1:temperature_rb)
+{
+field(DTYP, "OPCUA")
+field(ADEL, "-1")
+field(MDEL, "-1")
+field(TSE, "-2")
+field(SCAN, "I/O Intr")
+field(INP, "@SUB1 ns=2;s=Process_Data_read1.Temperature timestamp=source qsize=11")
+}
+record(ao,process_data_read2:temperature)
+{
+field(DTYP, "OPCUA")
+field(ADEL, "-1")
+field(MDEL, "-1")
+field(OUT, "@OPC1 ns=2;s=Process_Data_read2.Temperature monitor=n")
+}
+record(ai,process_data_read2:temperature_rb)
+{
+field(DTYP, "OPCUA")
+field(ADEL, "-1")
+field(MDEL, "-1")
+field(TSE, "-2")
+field(SCAN, "I/O Intr")
+field(INP, "@SUB1 ns=2;s=Process_Data_read2.Temperature timestamp=source qsize=11")
+}
+
+record(ao,process_data_read3:temperature)
+{
+field(DTYP, "OPCUA")
+field(ADEL, "-1")
+field(MDEL, "-1")
+field(OUT, "@OPC1 ns=2;s=Process_Data_read3.Temperature monitor=n")
+}
+record(ai,process_data_read3:temperature_rb)
+{
+field(DTYP, "OPCUA")
+field(ADEL, "-1")
+field(MDEL, "-1")
+field(TSE, "-2")
+field(SCAN, "I/O Intr")
+field(INP, "@SUB1 ns=2;s=Process_Data_read3.Temperature timestamp=source qsize=11")
+}
+
+record(ao,process_data_read4:temperature)
+{
+field(DTYP, "OPCUA")
+field(ADEL, "-1")
+field(MDEL, "-1")
+field(OUT, "@OPC1 ns=2;s=Process_Data_read4.Temperature monitor=n")
+}
+record(ai,process_data_read4:temperature_rb)
+{
+field(DTYP, "OPCUA")
+field(ADEL, "-1")
+field(MDEL, "-1")
+field(TSE, "-2")
+field(SCAN, "I/O Intr")
+field(INP, "@SUB1 ns=2;s=Process_Data_read4.Temperature timestamp=source qsize=11")
+}
