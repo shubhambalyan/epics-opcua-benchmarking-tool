@@ -1,0 +1,21 @@
+PV Name,Value Written,Value Read,Time,Delta
+process_data_read976:temperature,1952,1952.0,1626110780708,0.0
+process_data_read976:temperature,1953,1952.0,1626110780708,0.0
+process_data_read976:temperature,1954,1954.0,1626110781189,481.0
+process_data_read976:temperature,1955,1955.0,1626110781239,50.0
+process_data_read976:temperature,1956,1956.0,1626110781290,51.0
+process_data_read976:temperature,1957,1957.0,1626110781341,51.0
+process_data_read976:temperature,1958,1958.0,1626110781390,49.0
+process_data_read976:temperature,1959,1959.0,1626110781441,51.0
+process_data_read976:temperature,1960,1960.0,1626110781491,50.0
+process_data_read976:temperature,1961,1961.0,1626110781542,51.0
+process_data_read976:temperature,1962,1962.0,1626110781593,51.0
+process_data_read976:temperature,1963,1963.0,1626110781644,51.0
+process_data_read976:temperature,1964,1964.0,1626110781695,51.0
+process_data_read976:temperature,1965,1965.0,1626110781748,53.0
+process_data_read976:temperature,1966,1966.0,1626110781798,50.0
+process_data_read976:temperature,1967,1967.0,1626110781849,51.0
+process_data_read976:temperature,1968,1968.0,1626110781900,51.0
+process_data_read976:temperature,1969,1968.0,1626110781900,0.0
+process_data_read976:temperature,1970,1970.0,1626110782019,119.0
+process_data_read976:temperature,1971,1971.0,1626110782072,53.0

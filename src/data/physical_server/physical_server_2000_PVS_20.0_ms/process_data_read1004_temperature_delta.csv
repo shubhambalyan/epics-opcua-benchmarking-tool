@@ -1,0 +1,21 @@
+PV Name,Value Written,Value Read,Time,Delta
+process_data_read1004:temperature,2008,2008.0,1626111703453,0.0
+process_data_read1004:temperature,2009,2009.0,1626111703482,29.0
+process_data_read1004:temperature,2010,2010.0,1626111703509,27.0
+process_data_read1004:temperature,2011,2010.0,1626111703509,0.0
+process_data_read1004:temperature,2012,2010.0,1626111703509,0.0
+process_data_read1004:temperature,2013,2010.0,1626111703509,0.0
+process_data_read1004:temperature,2014,2010.0,1626111703509,0.0
+process_data_read1004:temperature,2015,2010.0,1626111703509,0.0
+process_data_read1004:temperature,2016,2010.0,1626111703509,0.0
+process_data_read1004:temperature,2017,2010.0,1626111703509,0.0
+process_data_read1004:temperature,2018,2010.0,1626111703509,0.0
+process_data_read1004:temperature,2019,2010.0,1626111703509,0.0
+process_data_read1004:temperature,2020,2010.0,1626111703509,0.0
+process_data_read1004:temperature,2021,2010.0,1626111703509,0.0
+process_data_read1004:temperature,2022,2011.0,1626111703532,23.0
+process_data_read1004:temperature,2023,2011.0,1626111703532,0.0
+process_data_read1004:temperature,2024,2011.0,1626111703532,0.0
+process_data_read1004:temperature,2025,2011.0,1626111703532,0.0
+process_data_read1004:temperature,2026,2011.0,1626111703532,0.0
+process_data_read1004:temperature,2027,2011.0,1626111703532,0.0

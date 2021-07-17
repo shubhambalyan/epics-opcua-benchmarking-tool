@@ -1,0 +1,21 @@
+PV Name,Value Written,Value Read,Time,Delta
+process_data_read1279:temperature,2558,2558.0,1626110322235,0.0
+process_data_read1279:temperature,2559,2558.0,1626110322235,0.0
+process_data_read1279:temperature,2560,2560.0,1626110322706,471.0
+process_data_read1279:temperature,2561,2561.0,1626110322757,51.0
+process_data_read1279:temperature,2562,2562.0,1626110322807,50.0
+process_data_read1279:temperature,2563,2563.0,1626110322857,50.0
+process_data_read1279:temperature,2564,2564.0,1626110322907,50.0
+process_data_read1279:temperature,2565,2565.0,1626110322958,51.0
+process_data_read1279:temperature,2566,2566.0,1626110323008,50.0
+process_data_read1279:temperature,2567,2567.0,1626110323058,50.0
+process_data_read1279:temperature,2568,2568.0,1626110323109,51.0
+process_data_read1279:temperature,2569,2569.0,1626110323160,51.0
+process_data_read1279:temperature,2570,2570.0,1626110323212,52.0
+process_data_read1279:temperature,2571,2571.0,1626110323262,50.0
+process_data_read1279:temperature,2572,2572.0,1626110323314,52.0
+process_data_read1279:temperature,2573,2573.0,1626110323367,53.0
+process_data_read1279:temperature,2574,2574.0,1626110323418,51.0
+process_data_read1279:temperature,2575,2575.0,1626110323468,50.0
+process_data_read1279:temperature,2576,2576.0,1626110323520,52.0
+process_data_read1279:temperature,2577,2577.0,1626110323582,62.0

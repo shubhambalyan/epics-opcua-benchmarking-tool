@@ -1,0 +1,21 @@
+PV Name,Value Written,Value Read,Time,Delta
+process_data_read970:temperature,1940,1940.0,1626165025952,0.0
+process_data_read970:temperature,1941,1940.0,1626165025952,0.0
+process_data_read970:temperature,1942,1942.0,1626165026423,471.0
+process_data_read970:temperature,1943,1943.0,1626165026474,51.0
+process_data_read970:temperature,1944,1944.0,1626165026525,51.0
+process_data_read970:temperature,1945,1945.0,1626165026575,50.0
+process_data_read970:temperature,1946,1946.0,1626165026625,50.0
+process_data_read970:temperature,1947,1947.0,1626165026675,50.0
+process_data_read970:temperature,1948,1948.0,1626165026725,50.0
+process_data_read970:temperature,1949,1949.0,1626165026776,51.0
+process_data_read970:temperature,1950,1950.0,1626165026826,50.0
+process_data_read970:temperature,1951,1951.0,1626165026877,51.0
+process_data_read970:temperature,1952,1952.0,1626165026937,60.0
+process_data_read970:temperature,1953,1953.0,1626165026986,49.0
+process_data_read970:temperature,1954,1954.0,1626165027038,52.0
+process_data_read970:temperature,1955,1955.0,1626165027089,51.0
+process_data_read970:temperature,1956,1956.0,1626165027141,52.0
+process_data_read970:temperature,1957,1957.0,1626165027194,53.0
+process_data_read970:temperature,1958,1958.0,1626165027265,71.0
+process_data_read970:temperature,1959,1959.0,1626165027326,61.0

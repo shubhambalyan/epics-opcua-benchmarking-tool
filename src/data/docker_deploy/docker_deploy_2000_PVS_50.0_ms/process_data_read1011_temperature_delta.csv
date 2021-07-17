@@ -1,0 +1,21 @@
+PV Name,Value Written,Value Read,Time,Delta
+process_data_read1011:temperature,2022,2022.0,1626165027613,0.0
+process_data_read1011:temperature,2023,2022.0,1626165027613,0.0
+process_data_read1011:temperature,2024,2022.0,1626165027613,0.0
+process_data_read1011:temperature,2025,2022.0,1626165027613,0.0
+process_data_read1011:temperature,2026,2022.0,1626165027613,0.0
+process_data_read1011:temperature,2027,2022.0,1626165027613,0.0
+process_data_read1011:temperature,2028,2022.0,1626165027613,0.0
+process_data_read1011:temperature,2029,2022.0,1626165027613,0.0
+process_data_read1011:temperature,2030,2022.0,1626165027613,0.0
+process_data_read1011:temperature,2031,2026.0,1626165028370,757.0
+process_data_read1011:temperature,2032,2032.0,1626165028692,322.0
+process_data_read1011:temperature,2033,2033.0,1626165028743,51.0
+process_data_read1011:temperature,2034,2034.0,1626165028793,50.0
+process_data_read1011:temperature,2035,2035.0,1626165028844,51.0
+process_data_read1011:temperature,2036,2036.0,1626165028894,50.0
+process_data_read1011:temperature,2037,2037.0,1626165028944,50.0
+process_data_read1011:temperature,2038,2038.0,1626165028995,51.0
+process_data_read1011:temperature,2039,2039.0,1626165029045,50.0
+process_data_read1011:temperature,2040,2040.0,1626165029096,51.0
+process_data_read1011:temperature,2041,2041.0,1626165029146,50.0

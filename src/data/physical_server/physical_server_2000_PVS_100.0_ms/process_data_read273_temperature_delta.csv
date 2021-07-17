@@ -1,0 +1,11 @@
+PV Name,Value Written,Value Read,Time,Delta
+process_data_read273:temperature,546,546.0,1626109252251,0.0
+process_data_read273:temperature,547,547.0,1626109252778,527.0
+process_data_read273:temperature,548,548.0,1626109252880,102.0
+process_data_read273:temperature,549,549.0,1626109252980,100.0
+process_data_read273:temperature,550,550.0,1626109253080,100.0
+process_data_read273:temperature,551,551.0,1626109253181,101.0
+process_data_read273:temperature,552,552.0,1626109253282,101.0
+process_data_read273:temperature,553,553.0,1626109253382,100.0
+process_data_read273:temperature,554,554.0,1626109253483,101.0
+process_data_read273:temperature,555,555.0,1626109253591,108.0

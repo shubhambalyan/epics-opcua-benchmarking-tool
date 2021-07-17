@@ -1,0 +1,11 @@
+PV Name,Value Written,Value Read,Time,Delta
+process_data_read985:temperature,1970,1970.0,1626109267683,0.0
+process_data_read985:temperature,1971,1971.0,1626109268022,339.0
+process_data_read985:temperature,1972,1972.0,1626109268123,101.0
+process_data_read985:temperature,1973,1973.0,1626109268224,101.0
+process_data_read985:temperature,1974,1974.0,1626109268324,100.0
+process_data_read985:temperature,1975,1975.0,1626109268425,101.0
+process_data_read985:temperature,1976,1976.0,1626109268525,100.0
+process_data_read985:temperature,1977,1977.0,1626109268625,100.0
+process_data_read985:temperature,1978,1978.0,1626109268731,106.0
+process_data_read985:temperature,1979,1979.0,1626109268841,110.0
